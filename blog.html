@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://unpkg.com/swup@4"></script>
+    <script defer src="script.js"></script>
+
+    <title>A.SPACE</title>
+    
+    <link rel="stylesheet" href="stylesheets/style.css">
+
+</head>
+<body>
+
+    <header>
+
+        <div class="Logo">
+            <img src="assets/A-SPACE_Logo2.png" alt="">
+        </div>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="index.html" class="home">HOME</a></li>
+                <li><a href="about.html" class="about">ABOUT</a></li>
+                <li><a href="projects.html" class="projects">PROJECTS</a></li>
+                <li><a href="blog.html" class="blog">BLOG</a></li>
+                <li><a href="gallery.html" class="gallery">GALLERY</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main id="swup" class="transition-fade">
+
+        <section class="blog_hero">
+
+            <span class="hero_tag">ARTICLES</span>
+
+            <h1>
+                Every project has <br>
+                a story.
+            </h1>
+
+            <p>
+                Engineering isn't just about the final product. It's every prototype, failiure, breakthrough and lesson learned along the way.
+            </p>
+
+        </section>
+
+        <section class="featured_blog">
+
+            <div class="section_title">
+
+                <div class="dot"></div>
+
+                <h2>LATEST ARTICLES</h2>
+
+            </div>
+
+            <div class="carousel">
+
+                <button 
+                    class="carousel_prev"
+                    id="carouselPrev">
+                    ←
+                </button>
+
+                <div class="carousel_track">
+                
+                    <div
+                        class="carousel_container"
+                        id="featuredCarousel">
+                
+                    </div>
+                
+                </div>
+
+                <button 
+                    class="carousel_next"
+                    id="carouselNext">
+                    →
+                </button>
+
+            </div>
+
+            <div 
+                class="carousel_dots"
+                id="carouselDots">
+
+            </div>
+
+        </section>
+
+        <section class="blog_archive">
+
+            <div class="section_title">
+
+                <div class="dot"></div>
+
+                <h2>BROWSE ARTICLES</h2>
+
+            </div>
+
+            <p>
+
+                Every engineering project leave behind notes, experiments, successes and mistakes. Browse them by project below.
+
+            </p>
+
+            <div class="blog_search">
+                                
+                <input
+                    id="searchInput"
+                    type="text"
+                    placeholder="Search mission logs..."
+                >
+                                
+            </div>
+
+            <div class="blog_filters">
+
+                <button 
+                    class="filter active"
+                    data-category="All">
+
+                    All
+
+                </button>
+
+                <button 
+                    class="filter"
+                    data-category="Rocketry">
+
+                    Rocketry
+
+                </button>
+
+                <button 
+                    class="filter"
+                    data-category="Robotics">
+                
+                    Robotics
+
+                </button>
+
+                <button 
+                    class="filter"
+                    data-category="Space_News">
+
+                    Space News
+
+                </button>
+
+            </div>
+
+            <div
+                class="blog_grid"
+                id="blogGrid">
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="footer_column_1">
+            <img src="assets/A-SPACE_Logo.png" alt="">
+        </div>
+        <div class="footer_column_2">
+            <h3>Contact me</h3>
+            <p>Feel free to contact me about project or article questions!</p>
+            <button>Contact</button>
+        </div>
+        <div class="footer_column_3">
+            <h5>Sem Acou</h5>
+            <p>email</p>
+        </div>
+        <div class="footer_copyright">
+            <p>&copy 2026 Sem Acou</p>
+        </div>
+    </footer>
+
+</body>
+</html>

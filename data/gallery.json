@@ -1,0 +1,39 @@
+{
+    "images":[
+
+        {
+            "image":"assets/gallery/AXIS_3dprinting.jpg",
+            "alt":"3d printing AXIS"
+        },
+
+        {
+            "image":"assets/gallery/AXIS_frequency_test.jpg",
+            "alt":"AXIS frequency test"
+        },
+
+        {
+            "image":"assets/gallery/AXIS_image.png",
+            "alt":"AXIS PCB"
+        },
+
+        {
+            "image":"assets/gallery/AXIS_IMU_testcircuit.jpg",
+            "alt":"AXIS IMU test circuit"
+        },
+        {
+            "image":"assets/gallery/AXIS_IMU_testdata.webp",
+            "alt":"AXIS IMU test data"
+        },
+
+        {
+            "image":"assets/gallery/AXIS_sketch.jpg",
+            "alt":"AXIS sketch"
+        },
+
+        {
+            "image":"assets/gallery/Bumblebee_image.png",
+            "alt":"Bumblebee 3d model (full mode)"
+        }
+
+    ]
+}

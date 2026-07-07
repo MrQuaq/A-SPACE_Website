@@ -1,0 +1,108 @@
+{
+    "featured": [
+        {
+            "id":"the-insane-engineering-of-formation-spaceflight",
+        
+            "title":"The INSANE Engineering of Formation Spaceflight",
+        
+            "description":"What did PROBA-3 achieve and why is it such a big deal?",
+        
+            "category":"Space-News",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/the-insane-engineering-of-formation-spaceflight.jpg",
+        
+            "markdown":"./articles/the-insane-engineering-of-formation-spaceflight.md"
+        },
+        {
+            "id":"AXIS-project-update-july",
+        
+            "title":"AXIS project update July",
+        
+            "description":"Why I redesigned my rocket avionics.",
+        
+            "category":"Robotics",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/AXIS-project-update-july.avif",
+        
+            "markdown":"./articles/AXIS-project-update-july.md"
+        }
+    ],
+    "posts": [
+        {
+            "id":"the-insane-engineering-of-formation-spaceflight",
+        
+            "title":"The INSANE Engineering of Formation Spaceflight",
+        
+            "description":"What did PROBA-3 achieve and why is it such a big deal?",
+        
+            "category":"Space-News",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/the-insane-engineering-of-formation-spaceflight.jpg",
+        
+            "markdown":"./articles/the-insane-engineering-of-formation-spaceflight.md"
+        },
+        {
+            "id":"AXIS-project-update-july",
+        
+            "title":"AXIS project update July",
+        
+            "description":"Why I redesigned my rocket avionics.",
+        
+            "category":"Robotics",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/AXIS-project-update-july.avif",
+        
+            "markdown":"./articles/AXIS-project-update-july.md"
+        },
+        {
+            "id":"AXIS-project-plan",
+        
+            "title":"The Plan for my Balancing Robot",
+        
+            "description":"What is the plan for my self balancing PID controlled robot?",
+        
+            "category":"Robotics",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/AXIS-project-plan.avif",
+        
+            "markdown":"./articles/AXIS-project-plan.md"
+        },
+        {
+            "id":"yeetimus-prime-project-plan",
+        
+            "title":"The YeetimusPrime Development Program",
+        
+            "description":"Yeetimus Prime, what's that???",
+        
+            "category":"Rocketry",
+        
+            "date":"July 2026",
+        
+            "readingTime":"7 min",
+        
+            "image":"./assets/blog/yeetimus-prime-project-plan.jpg",
+        
+            "markdown":"./articles/yeetimus-prime-project-plan.md"
+        }
+    ]
+}

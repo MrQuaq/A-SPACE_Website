@@ -1,0 +1,55 @@
+{
+  "development": [
+    {
+    "id":"axis",
+
+    "title":"AXIS",
+
+    "description":"Dual-wheeled and self-balancing robot using a PID controll algorithm ",
+
+    "year":"2025",
+
+    "duration":"1 year",
+
+    "platform":"Hardware",
+
+    "status":"Active Development",
+
+    "progress":"70%",
+
+    "image":"./assets/projects/AXIS_image.png",
+
+    "markdown":"projects/AXIS.md"
+  },
+  {
+    "id":"ufo",
+
+    "title":"UFO",
+
+    "description":"All around avionics board for all upcoming A.SPACE launches",
+
+    "year":"2026",
+
+    "duration":"2 months",
+
+    "platform":"KiCad",
+
+    "status":"Pauzed Development",
+
+    "progress":"10%",
+
+    "image":"./assets/projects/Bumblebee_image.png",
+
+    "markdown":"projects/UFO.md"
+  }
+  ],
+  "finished": [
+    {
+      "id": "a-space-website",
+      "title": "A.SPACE website",
+      "description": "The first website of A.SPACE where articles, projects and photos will be showcased!",
+      "image": "./assets/projects/A-SPACE_image.png",
+      "markdown": "projects/A-SPACE_Website.md"
+    }
+  ]
+}
